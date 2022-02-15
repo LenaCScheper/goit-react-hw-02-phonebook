@@ -30,6 +30,7 @@
 .TaskList_actions {
   display: flex;
   justify-content: center;
+ 
 }
 
 .TaskList_button {
